@@ -37,5 +37,5 @@ On peut vérifier que le certificat est bien validé par _Let's encrypt_ en alla
 
 ## Renouvellement du certificat
 
-Le certificat est valable 3 mois, et au bout de 2, Let's encrypt avertit sur l'adresse email de contact qu'il faut penser à le renouveler. On peut le faire manuellement, mais on peut aussi se faire un simple script bash qui va lancer la commande décrite ci-dessus et programmer un cron mensuel sur son serveur. Et ainsi, plus besoin de se préoccuper d'une expiration oubliée.
+Le certificat est valable 3 mois, et au bout de 2,_ Let's encrypt_ avertit sur l'adresse email de contact qu'il faut penser à le renouveler. On peut le faire manuellement, mais on peut aussi se faire un simple script bash qui va lancer la commande décrite ci-dessus et programmer un cron mensuel sur son serveur. Et ainsi, plus besoin de se préoccuper d'une expiration oubliée.
 
